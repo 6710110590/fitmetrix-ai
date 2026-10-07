@@ -89,7 +89,7 @@ streamlit run app.py
 
 ### เทรนโมเดลใหม่ (ไม่บังคับ)
 
-โมเดลที่ฝึกแล้วอยู่ใน `models/` พร้อมใช้งาน ถ้าต้องการฝึกใหม่ ให้ดาวน์โหลด `exercise.csv` และ `calories.csv` จาก [ใส่ลิงก์ชุดข้อมูลที่ใช้] ไฟล์ข้อมูลไม่ได้รวมอยู่ใน repo นี้ แล้วรัน `training/train.py` บน Google Colab (อัปโหลดข้อมูลสองไฟล์พร้อม `features.py`)
+โมเดลที่ฝึกแล้วอยู่ใน `models/` พร้อมใช้งาน ถ้าต้องการฝึกใหม่ ให้ดาวน์โหลด `exercise.csv` และ `calories.csv` จาก https://www.kaggle.com/code/joseambrosio/calories-burned-prediction/input ไฟล์ข้อมูลไม่ได้รวมอยู่ใน repo นี้ แล้วรัน `training/train.py` บน Google Colab (อัปโหลดข้อมูลสองไฟล์พร้อม `features.py`)
 
 ## วิธีใช้ Squat
 

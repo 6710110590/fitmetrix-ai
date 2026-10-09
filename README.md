@@ -70,7 +70,7 @@ fitmetrix-ai/
 ต้องใช้ Python 3.11 หรือ 3.12 (MediaPipe อาจยังไม่รองรับ Python เวอร์ชันใหม่สุด) และเวอร์ชันไลบรารีที่ล็อกไว้ใน `requirements.txt` ต้องตรงกับตอนฝึกโมเดล โดยเฉพาะ scikit-learn 1.6.1
 
 ```bash
-git clone https://github.com/<ชื่อผู้ใช้>/fitmetrix-ai.git
+git clone https://github.com/6710110590/fitmetrix-ai.git
 cd fitmetrix-ai
 
 python -m venv .venv
